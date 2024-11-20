@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const BOT_TOKEN = '7162194423:AAFRwOsTrD1tooEb9i8Ta8o9mZUoQh4jf0w';
-const CHAT_ID = '5347066915';
+const BOT_TOKEN = '######';
+const CHAT_ID = '######';
 
 export const sendToTelegram = async (data: any) => {
   const message = `Hallo ada yang daftar
